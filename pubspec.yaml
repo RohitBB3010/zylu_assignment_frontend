@@ -43,4 +43,10 @@ flutter:
     - family: Lato
       fonts:
         - asset: fonts/Lato-Regular.ttf
+    - family: PoppinsRegular
+      fonts:
+        - asset: fonts/Poppins-Black.ttf
+    - family: PoppinsBold
+      fonts:
+        - asset: fonts/Poppins-Bold.ttf
 
